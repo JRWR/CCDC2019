@@ -1,2 +1,3 @@
 echo hello world
+msg "%username%" Some message to display
 timeout 40
